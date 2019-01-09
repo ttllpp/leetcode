@@ -2,7 +2,7 @@
 
 主要用go和c写，借鉴
 
-[https://github.com/aQuaYi/LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go)
+[https://github.com/aQuaYi/LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go)\
 [https://github.com/begeekmyfriend/leetcode](https://github.com/begeekmyfriend/leetcode)
 
 
